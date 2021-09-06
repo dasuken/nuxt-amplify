@@ -26,7 +26,7 @@
                 ぐえ
               </v-card-title>
               <v-card-text>
-                <div>NBAとラジオ好き。</div>
+                <div>NBA好き。</div>
                 <div>個人開発やってます。</div>
                 <v-btn outlined small class="mt-4" to="/works">WORKS</v-btn>
               </v-card-text>
