@@ -27,7 +27,7 @@
               </v-card-title>
               <v-card-text>
                 <div>NBA好き。</div>
-                <div>個人開発やってます。</div>
+                <div>個人開発</div>
                 <v-btn outlined small class="mt-4" to="/works">WORKS</v-btn>
               </v-card-text>
             </v-card>
